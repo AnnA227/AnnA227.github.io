@@ -21,7 +21,7 @@
 title: Anna Laoide-Kemp
 email: Anna [dot] Laoide-kemp [at] ed.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  PhD Candidate in Linguistics, University of Edinburgh
+  PhD Researcher in Linguistics
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
