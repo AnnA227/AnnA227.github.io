@@ -23,7 +23,7 @@ email: Anna [dot] Laoide-kemp [at] ed.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
   PhD Researcher in Linguistics
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://anna227.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  AnnA227
 
@@ -32,6 +32,7 @@ remote_theme: pages-themes/slate@v0.2.0
 plugins:
 - jekyll-feed
 - jekyll-remote-theme
+- jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.
