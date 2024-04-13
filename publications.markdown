@@ -25,9 +25,9 @@ June 2022\. _Irish initial consonant mutations: disentangling phonology from mor
 
 (Note: the documents below were written under my maiden name "Lawless")
 
-April 2018\. _An optimality theory approach to initial consonant mutation in Modern Irish_. MPhil Dissertation (School of Linguistic, Speech and Communication Sciences, Trinity College Dublin). ([PDF](./assets/Laoide-Kemp_Lawless_MPhilDissertation_2018.pdf){:target="_blank"})
+April 2018\. _An optimality theory approach to initial consonant mutation in Modern Irish_. MPhil dissertation (School of Linguistic, Speech and Communication Sciences, Trinity College Dublin). ([PDF](./assets/Laoide-Kemp_Lawless_MPhilDissertation_2018.pdf){:target="_blank"})
 
-March 2014\. _Nonlinear electromagnetism in general relativity_. Undergraduate Dissertation (School of Mathematics, Trinity College Dublin). ([PDF](./assets/Laoide-Kemp_Lawless_MathsProject_2014.pdf){:target="_blank"}) ([presentation slides](./assets/Laoide-Kemp_Lawless_MathsProject_2014_slides.pdf){:target="_blank"})
+March 2014\. _Nonlinear electromagnetism in general relativity_. Undergraduate dissertation (School of Mathematics, Trinity College Dublin). ([PDF](./assets/Laoide-Kemp_Lawless_MathsProject_2014.pdf){:target="_blank"}) ([presentation slides](./assets/Laoide-Kemp_Lawless_MathsProject_2014_slides.pdf){:target="_blank"})
 
 January 2014\. _In search of the Stradivarius-like solutions in classical wave mechanics_. Undergraduate physics project (School of Physics, Trinity College Dublin). ([PDF](./assets/Laoide-Kemp_Lawless_PhysicsProject_2014.pdf){:target="_blank"})
 
