@@ -11,7 +11,7 @@ layout: default
 
 ![Anna Laoide-Kemp](./assets/images/anna_laoide-kemp.jpeg){: width="190px" style="float:left; padding-right:10px; padding-top: 10px" }
 
-#### Fáilte!
+### Fáilte!
 
 I'm Anna Laoide-Kemp, a PhD student in the University of Edinburgh, working in the field of Theoretical Linguistics. My research interests include **phonological and morphosyntactic theory**, with a particular focus on the **interface between these modules**. My PhD project is on the analysis of Irish initial consonant mutations (ICM) within a modular grammatical architecture.
 
