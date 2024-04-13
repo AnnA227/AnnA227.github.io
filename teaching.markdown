@@ -9,11 +9,15 @@ permalink: /teaching
 
 ## Teaching
 
+### Current tutoring
+
 In 2023/24 I am tutoring on the following courses:
 
 * LEL2A: Linguistic Theory and Structure of English (LASC08017)
 * LEL2D: Cross-Linguistic Variation: Limits and Theories (LASC08020)
 * PPLS Skills Centre: one-on-one academic writing appointments
+
+### Previous tutoring roles
 
 I have previously tutored on the following:
 * LEL1B: Linguistics and English Language 1B (LASC08023)
@@ -26,7 +30,7 @@ I have also tutored on these courses (School of Mathematics, Trinity College Dub
 * MA342H: Partial Differential Equations
 * MA1S12: Mathematics for Scientists
 
-## My teaching philosophy
+### My teaching philosophy
 
 As an educator in a university context, I see my role as being less about imparting knowledge and more about guiding and supporting the students as they develop their ability to think critically and independently. As such, my teaching approach focuses on getting the students to actively engage with the material and to learn through exploration. I encourage my students to ask probing questions, to look for weak spots in any theory that has been put forward, and more generally to start seeing themselves in the role of independent researcher.
 

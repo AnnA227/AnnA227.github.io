@@ -7,7 +7,7 @@ title: "My research"
 permalink: /research
 ---
 
-## Current research interests
+## My research
 
 I am currently working towards a PhD in the University of Edinburgh, under the supervision of [Pavel Iosad](https://www.ed.ac.uk/profile/pavel-iosad){:target="_blank"} and [Peter Ackema](https://www.ed.ac.uk/profile/peter-ackema){:target="_blank"}. My research focuses on how initial consonant mutation (ICM) in Irish and the other Celtic languages can be analysed within a strictly modular grammatical architecture.
 
@@ -17,7 +17,7 @@ Working within a strictly modular framework, my PhD project aims to tease apart 
 
 See [here](./publications.html) for details of my presentations and publications to date.
 
-## Research summary
+### Research summary
 
 * Linguistic theory
 * Celtic linguistics

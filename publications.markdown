@@ -3,11 +3,13 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: "Presentations and Publications"
+title: "Presentations and publications"
 permalink: /publications
 ---
 
-## Presentations
+## Presentations and publications
+
+### Presentations
 
 February 2024\. _A strictly modular analysis of initial consonant mutation in Irish_. Talk given at the 21st Sprachwissenschaftliche Tagung für Promotionsstudierende (STaPs-21) (online - hosted by Pázmány Péter Catholic University, Budapest). ([PDF](./assets/Laoide-Kemp_STaPs_2024_slides.pdf){:target="_blank"})
 
@@ -19,7 +21,7 @@ July 2022\. _Irish initial consonant mutations: disentangling phonology from mor
 
 June 2022\. _Irish initial consonant mutations: disentangling phonology from morphosyntax_. Poster presented at ACTL Summer School 2022 (University of York). ([PDF](./assets/Laoide-Kemp_ACTL_2022_poster.pdf){:target="_blank"})
 
-## Dissertations and Projects
+### Dissertations and projects
 
 (Note: the documents below were written under my maiden name "Lawless")
 
