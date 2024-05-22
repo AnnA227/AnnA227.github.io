@@ -11,6 +11,10 @@ permalink: /publications
 
 ### Presentations
 
+May 2024\. _Two sources of initial consonant mutation in the Irish clause_. Talk given at the 33rd Colloquium on Generative Grammar (CGG) (University of Alcalá, Alcalá de Henares). ([PDF](./assets/Laoide-Kemp_CGG_2024_slides.pdf){:target="_blank"})
+
+April 2024\. _Two sources of initial consonant mutation in the Irish clause_. Talk given at the Manchester Forum in Linguistics (MFiL) (University of Manchester). ([PDF](./assets/Laoide-Kemp_MFiL_2024_slides.pdf){:target="_blank"})
+
 February 2024\. _A strictly modular analysis of initial consonant mutation in Irish_. Talk given at the 21st Sprachwissenschaftliche Tagung für Promotionsstudierende (STaPs-21) (online - hosted by Pázmány Péter Catholic University, Budapest). ([PDF](./assets/Laoide-Kemp_STaPs_2024_slides.pdf){:target="_blank"})
 
 November 2023\. _Irish initial consonant mutations: disentangling phonology from morphosyntax_. Talk given at the Western Conference on Linguistics (WECOL) (online - hosted by California State University,  Fresno). ([PDF](./assets/Laoide-Kemp_WECOL_2023_slides.pdf){:target="_blank"})
