@@ -9,6 +9,13 @@ permalink: /publications
 
 ## Presentations and publications
 
+### Publications
+
+Laoide-Kemp, A. (2023). Irish initial consonant mutation: disentangling phonology from
+morphosyntax. In M. Jaurena & Z. Metzler (Eds.), _Proceedings of the Thirty-Fifth Western
+Conference on Linguistics_ (Vol. 29, p. 58-68). California State University, Fresno. (available [here](https://wecol.weebly.com/uploads/1/2/6/6/126620555/volume_29_-_wecol_2023.pdf){:target="_blank"})
+
+
 ### Presentations
 
 May 2024\. _Two sources of initial consonant mutation in the Irish clause_. Talk given at the 33rd Colloquium on Generative Grammar (CGG) (University of Alcalá, Alcalá de Henares). ([PDF](./assets/Laoide-Kemp_CGG_2024_slides.pdf){:target="_blank"})
