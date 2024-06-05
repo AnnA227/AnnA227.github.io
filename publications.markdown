@@ -18,6 +18,8 @@ Conference on Linguistics_ (Vol. 29, p. 58-68). California State University, Fre
 
 ### Presentations
 
+June 2024\. _Two sources of initial consonant mutation in the Irish clause_. Talk given at the LEL Postgraduate Conference (LELPGC24) (University of Edinburgh). ([PDF](./assets/Laoide-Kemp_LELPGC24_slides.pdf){:target="_blank"})
+
 May 2024\. _Two sources of initial consonant mutation in the Irish clause_. Talk given at the 33rd Colloquium on Generative Grammar (CGG) (University of Alcalá, Alcalá de Henares). ([PDF](./assets/Laoide-Kemp_CGG_2024_slides.pdf){:target="_blank"})
 
 April 2024\. _Two sources of initial consonant mutation in the Irish clause_. Talk given at the Manchester Forum in Linguistics (MFiL) (University of Manchester). ([PDF](./assets/Laoide-Kemp_MFiL_2024_slides.pdf){:target="_blank"})
