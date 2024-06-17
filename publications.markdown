@@ -18,7 +18,7 @@ Conference on Linguistics_ (Vol. 29, p. 58-68). California State University, Fre
 
 ### Presentations
 
-June 2024\. _Myopic effects in the Irish initial consonant mutation system_. Talk given at Workshop on Myopia in Grammar (Universität Leipzig). ([PDF](./assets/Laoide-Kemp_Myopia_slides.pdf){:target="_blank"})
+June 2024\. _Myopic effects in the Irish initial consonant mutation system_. Talk given at Workshop on Myopia in Grammar (Universität Leipzig). ([PDF](./assets/Laoide-Kemp_Myopia_2024_slides.pdf){:target="_blank"})
 
 June 2024\. _Two sources of initial consonant mutation in the Irish clause_. Talk given at the LEL Postgraduate Conference (LELPGC24) (University of Edinburgh). ([PDF](./assets/Laoide-Kemp_LELPGC24_slides.pdf){:target="_blank"})
 
