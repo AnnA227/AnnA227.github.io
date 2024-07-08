@@ -36,7 +36,7 @@ As an educator in a university context, I see my role as being less about impart
 
 Throughout my time as a tutor, I have actively sought out opportunities to develop my teaching practice and to learn from my experiences in the classroom. As a result, I have built up a toolkit of practical techniques for classroom management, and I have also developed a clearer view of my own goals as a teacher. I hope to continue building on this foundation, always seeking new ways to support students in their academic journey.
 
-This semester, I am enrolled in the [Introduction to Academic Practice (IntroAP)](https://institute-academic-development.ed.ac.uk/learning-teaching/cpd/intro-ap){:target="_blank"} teaching development course run by Edinburgh's Institute for Academic Development. Participating in this course has given me the opportunity to reflect deeply on my teaching practice, and will hopefully lead to official recognition of my teaching through [Associate Fellowship of the Higher Education Academy (HEA)](https://advance-he.ac.uk/fellowship/associate-fellowship){:target="_blank"}.
+This semester, I completed the [Introduction to Academic Practice (IntroAP)](https://institute-academic-development.ed.ac.uk/learning-teaching/cpd/intro-ap){:target="_blank"} teaching development course run by Edinburgh's Institute for Academic Development. Participating in this course gave me the opportunity to reflect deeply on my teaching practice, and has led to official recognition of my teaching through [Associate Fellowship of the Higher Education Academy (HEA)](https://advance-he.ac.uk/fellowship/associate-fellowship){:target="_blank"}.
 
 * * *
 
