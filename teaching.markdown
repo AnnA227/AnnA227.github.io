@@ -15,6 +15,7 @@ In 2024/25 I am tutoring on the following courses:
 
 * Introduction to Syntax (MSc) (LASC11085)
 * Quantitative Methods in Linguistics and English Language (MSc) (LASC11187)
+* Syntax: Theory and Practice (LASC10084)
 * PPLS Skills Centre: one-on-one academic writing appointments
 
 I will also be guest lecturing for three weeks on the following course:
