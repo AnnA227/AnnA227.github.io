@@ -18,6 +18,8 @@ Conference on Linguistics_ (Vol. 29, p. 58-68). California State University, Fre
 
 ### Presentations
 
+October 2024\. _Preverbal d' and its interactions with the initial consonant mutation system in Irish_. Invited talk for the Atelier de Phonologie (online, hosted in Paris). ([PDF](./assets/Laoide-Kemp_atelier_de_phonologie_2024_slides.pdf){:target="_blank"})
+
 September 2024\. _Resolving the spell-out timing paradox in Irish historic tense lenition_. Talk given at the 17th conference on Syntax, Phonology and Language Analysis (SinFonIJA 17) (University of Nova Gorica, Slovenia). ([PDF](./assets/Laoide-Kemp_SinFonIJA_2024_slides.pdf){:target="_blank"})
 
 August 2024\. _Resolving the spell-out timing paradox in Irish historic tense lenition_. Talk given at the 2024 Annual Meeting of the LAGB (Newcastle University). ([PDF](./assets/Laoide-Kemp_LAGB_2024_slides.pdf){:target="_blank"})
