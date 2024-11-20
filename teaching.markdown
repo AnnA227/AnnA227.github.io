@@ -9,6 +9,11 @@ permalink: /teaching
 
 ## Teaching
 
+### Lecturing
+
+* Introduction to Phonology (MSc) (LASC11089) - Guest lecture (3 weeks; covering phonemic analysis, phonological rules and distinctive feature theory)
+* Introduction to Syntax (MSc) (LASC11085) - Guest lecture (1 lecture; covering syntactic islands)
+
 ### Current tutoring
 
 In 2024/25 I am tutoring on the following courses:
@@ -17,10 +22,6 @@ In 2024/25 I am tutoring on the following courses:
 * Quantitative Methods in Linguistics and English Language (MSc) (LASC11187)
 * Syntax: Theory and Practice (LASC10084)
 * PPLS Skills Centre: one-on-one academic writing appointments
-
-I will also be guest lecturing for three weeks on the following course:
-
-* Introduction to Phonology (MSc) (LASC11089)
 
 ### Previous tutoring roles
 
