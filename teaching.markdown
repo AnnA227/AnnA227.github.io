@@ -11,8 +11,8 @@ permalink: /teaching
 
 ### Lecturing
 
-* Introduction to Phonology (MSc) (LASC11089) - Guest lecture (3 weeks; covering phonemic analysis, phonological rules and distinctive feature theory)
-* Introduction to Syntax (MSc) (LASC11085) - Guest lecture (1 lecture; covering syntactic islands)
+* Introduction to Phonology (MSc) (LASC11089) - 3 weeks as guest lecturer (covering phonemic analysis, phonological rules and distinctive feature theory)
+* Introduction to Syntax (MSc) (LASC11085) - 1 guest lecture (covering syntactic islands)
 
 ### Current tutoring
 
