@@ -9,7 +9,7 @@ permalink: /aboutme
 
 ## About me
 
-My name is Anna Laoide-Kemp, and I am a PhD research student working in the field of Theoretical Linguistics. My research interests include **phonological and morphosyntactic theory**, with a particular focus on the **interface between these modules**.
+My name is Anna Laoide-Kemp, and I am a researcher working in the field of Theoretical Linguistics. My research interests include **phonological and morphosyntactic theory**, with a particular focus on the **interface between these modules**.
 
 ### My background
 

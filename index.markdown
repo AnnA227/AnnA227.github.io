@@ -13,7 +13,7 @@ layout: default
 
 ### Fáilte!
 
-I'm Anna Laoide-Kemp, a PhD student in the University of Edinburgh, working in the field of Theoretical Linguistics. My research interests include **phonological and morphosyntactic theory**, with a particular focus on the **interface between these modules**. My PhD project is on the analysis of Irish initial consonant mutations (ICM) within a modular grammatical architecture.
+I'm Anna Laoide-Kemp, a researcher in the University of Edinburgh, working in the field of Theoretical Linguistics. My research interests include **phonological and morphosyntactic theory**, with a particular focus on the **interface between these modules**. My PhD project is on the analysis of Irish initial consonant mutations (ICM) within a modular grammatical architecture.
 
 To learn more about me and my research, please follow the links below.
 
