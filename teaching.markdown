@@ -11,7 +11,7 @@ permalink: /teaching
 
 ### Lecturing
 
-* Syntax: Theory and Practice (MSc/Hons) (LASC10084) - _VP structure: ditransitive asymmetries_ (1 lecture))
+* Syntax: Theory and Practice (MSc/Hons) (LASC10084) - _VP structure: ditransitive asymmetries_ (1 lecture)
 * Introduction to Syntax (MSc) (LASC11085) - _Syntactic islands_ (1 lecture, co-taught with Irish Kamil and John Hotson)
 * Introduction to Phonology (MSc) (LASC11089) - _Phonemic analysis; phonological rules; distinctive feature theory_ (3 lectures)
 
