@@ -27,6 +27,6 @@ To learn more about me and my research, please follow the links below.
 
 [Teaching](./teaching.html)
 
-[CV](./assets/Laoide-Kemp_Anna_Curriculum_Vitae.pdf){:target="_blank"}
+[Curriculum Vitae](./assets/Laoide-Kemp_Anna_Curriculum_Vitae.pdf){:target="_blank"}
 
 [Contact](./contact.html)
