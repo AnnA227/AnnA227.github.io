@@ -18,6 +18,9 @@ Conference on Linguistics_ (Vol. 29, p. 58-68). California State University, Fre
 
 ### Presentations
 
+March 2025\. _Initial consonant mutation patterns as evidence for domain structure in Irish_. Poster to be presented at Exploring
+Boundaries: Phonological Domains in the Languages of the World (UiT The Arctic University of Norway, Tromsø).
+
 October 2024\. _Preverbal d' and its interactions with the initial consonant mutation system in Irish_. Invited talk for the Atelier de Phonologie (online - hosted in Paris). ([PDF](./assets/Laoide-Kemp_atelier_de_phonologie_2024_slides.pdf){:target="_blank"})
 
 September 2024\. _Resolving the spell-out timing paradox in Irish historic tense lenition_. Talk given at the 17th conference on Syntax, Phonology and Language Analysis (SinFonIJA 17) (University of Nova Gorica, Slovenia). ([PDF](./assets/Laoide-Kemp_SinFonIJA_2024_slides.pdf){:target="_blank"})
@@ -36,7 +39,7 @@ February 2024\. _A strictly modular analysis of initial consonant mutation in Ir
 
 November 2023\. _Irish initial consonant mutations: disentangling phonology from morphosyntax_. Talk given at the Western Conference on Linguistics (WECOL) (online - hosted by California State University,  Fresno). ([PDF](./assets/Laoide-Kemp_WECOL_2023_slides.pdf){:target="_blank"})
 
-June 2023\. _Irish initial consonant mutations: disentangling phonology from morphosyntax_. Talk given at LELPGC23 (University of Edinburgh). ([PDF](./assets/Laoide-Kemp_LELPGC23_slides.pdf){:target="_blank"})
+June 2023\. _Irish initial consonant mutations: disentangling phonology from morphosyntax_. Talk given at th LEL Postgraduate Conference (LELPGC23) (University of Edinburgh). ([PDF](./assets/Laoide-Kemp_LELPGC23_slides.pdf){:target="_blank"})
 
 July 2022\. _Irish initial consonant mutations: disentangling phonology from morphosyntax_. Talk given at EdinMorph (Edinburgh Morphology Reading Group) (University of Edinburgh). ([PDF](./assets/Laoide-Kemp_EdinMorph_2022_slides.pdf){:target="_blank"})
 
