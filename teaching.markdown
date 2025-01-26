@@ -11,8 +11,9 @@ permalink: /teaching
 
 ### Lecturing
 
-* Introduction to Phonology (MSc) (LASC11089) - 3 weeks as guest lecturer (covering phonemic analysis, phonological rules and distinctive feature theory)
-* Introduction to Syntax (MSc) (LASC11085) - 1 guest lecture (covering syntactic islands)
+* Syntax: Theory and Practice (MSc/Hons) (LASC10084) - _VP structure: ditransitive asymmetries_ (1 lecture))
+* Introduction to Syntax (MSc) (LASC11085) - _Syntactic islands_ (1 lecture, co-taught with Irish Kamil and John Hotson)
+* Introduction to Phonology (MSc) (LASC11089) - _Phonemic analysis; phonological rules; distinctive feature theory_ (3 lectures)
 
 ### Current tutoring
 
@@ -20,7 +21,7 @@ In 2024/25 I am tutoring on the following courses:
 
 * Introduction to Syntax (MSc) (LASC11085)
 * Quantitative Methods in Linguistics and English Language (MSc) (LASC11187)
-* Syntax: Theory and Practice (LASC10084)
+* Syntax: Theory and Practice (MSc/Hons) (LASC10084)
 * PPLS Skills Centre: one-on-one academic writing appointments
 
 ### Previous tutoring roles
