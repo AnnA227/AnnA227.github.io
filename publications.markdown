@@ -20,8 +20,8 @@ Conference on Linguistics_ (Vol. 29, p. 58-68). California State University, Fre
 
 March 2025\. _Preverbal d' and its interactions with the initial consonant mutation system in Irish_. Talk to be given at GLOW 47 (Frankfurt am Main).
 
-March 2025\. _Initial consonant mutation patterns as evidence for domain structure in Irish_. Poster to be presented at Exploring
-Boundaries: Phonological Domains in the Languages of the World (UiT The Arctic University of Norway, Tromsø).
+March 2025\. _Initial consonant mutation patterns as evidence for domain structure in Irish_. Poster presented at Exploring
+Boundaries: Phonological Domains in the Languages of the World (UiT The Arctic University of Norway, Tromsø). ([PDF](./assets/Laoide-Kemp_Phonological_domains_2025_poster.pdf){:target="_blank"})
 
 October 2024\. _Preverbal d' and its interactions with the initial consonant mutation system in Irish_. Invited talk for the Atelier de Phonologie (online - hosted in Paris). ([PDF](./assets/Laoide-Kemp_atelier_de_phonologie_2024_slides.pdf){:target="_blank"})
 
