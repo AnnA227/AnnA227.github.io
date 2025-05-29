@@ -18,6 +18,8 @@ Conference on Linguistics_ (Vol. 29, p. 58-68). California State University, Fre
 
 ### Presentations
 
+May 2025\. _An autosegmental account of initial consonant mutation in Irish: evidence from preverbal d'_. Talk given at 31mfm (University of Manchester). ([PDF](./assets/Laoide-Kemp_31mfm_2025_slides.pdf){:target="_blank"})
+
 March 2025\. _Preverbal d' and its interactions with the initial consonant mutation system in Irish_. Talk given at GLOW 47 (Frankfurt am Main). ([PDF](./assets/Laoide-Kemp_GLOW_2025_slides.pdf){:target="_blank"}) (awarded _Student Presentation Excellence Award_ and €150 prize)
 
 March 2025\. _Initial consonant mutation patterns as evidence for domain structure in Irish_. Poster presented at Exploring
