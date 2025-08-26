@@ -17,10 +17,10 @@ permalink: /teaching
 
 ### Current tutoring
 
-In 2024/25 I am tutoring on the following courses:
+In 2025/26 I am tutoring on the following courses:
 
-* Introduction to Syntax (MSc) (LASC11085)
-* Quantitative Methods in Linguistics and English Language (MSc) (LASC11187)
+* LEL1B: Linguistics and English Language 1B (LASC08023)
+* LEL2A: Linguistic Theory and Structure of English (LASC08017)
 * Syntax: Theory and Practice (MSc/Hons) (LASC10084)
 * PPLS Skills Centre: one-on-one academic writing appointments
 
@@ -30,6 +30,9 @@ I have previously tutored on the following:
 * LEL1B: Linguistics and English Language 1B (LASC08023)
 * LEL2A: Linguistic Theory and Structure of English (LASC08017)
 * LEL2D: Cross-Linguistic Variation: Limits and Theories (LASC08020)
+* Introduction to Syntax (MSc) (LASC11085)
+* Quantitative Methods in Linguistics and English Language (MSc) (LASC11187)
+* Syntax: Theory and Practice (MSc/Hons) (LASC10084)
 
 I have also tutored on these courses (School of Mathematics, Trinity College Dublin):
 * MA1111/MA1212: Linear Algebra
