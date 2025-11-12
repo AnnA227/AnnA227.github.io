@@ -27,7 +27,7 @@ case of Irish preverbal d’. Manuscript submitted for publication.
 ### Presentations
 
 November 2025\. _Resolving the paradox of Irish preverbal d’ in a modular
-grammatical system_. Talk given at \*Widame: A conference for postgraduate scholars in Celtic studies (Maynooth University).
+grammatical system_. Talk given at \*Widame: A conference for postgraduate scholars in Celtic studies (Maynooth University). ([PDF](./assets/Laoide-Kemp_Widame_2025_slides.pdf){:target="_blank"})
 
 May 2025\. _An autosegmental account of initial consonant mutation in Irish: evidence from preverbal d'_. Talk given at 31mfm (University of Manchester). ([PDF](./assets/Laoide-Kemp_31mfm_2025_slides.pdf){:target="_blank"})
 
