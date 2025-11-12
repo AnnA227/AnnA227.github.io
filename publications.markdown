@@ -17,11 +17,9 @@ Conference on Linguistics_ (Vol. 29, p. 58-68). California State University, Fre
 
 _Under review_
 
-Laoide-Kemp, A.  Initial consonant mutation patterns as evidence for domain struc-
-ture in Irish. Manuscript submitted for publication.
+Laoide-Kemp, A.  Initial consonant mutation patterns as evidence for domain structure in Irish. Manuscript submitted for publication.
 
-Laoide-Kemp, A. Strict modularity at the morphosyntax-phonology interface: the
-case of Irish preverbal d’. Manuscript submitted for publication.
+Laoide-Kemp, A. Strict modularity at the morphosyntax-phonology interface: the case of Irish preverbal d’. Manuscript submitted for publication.
 
 
 ### Presentations
@@ -36,7 +34,7 @@ March 2025\. _Preverbal d' and its interactions with the initial consonant mutat
 March 2025\. _Initial consonant mutation patterns as evidence for domain structure in Irish_. Poster presented at Exploring
 Boundaries: Phonological Domains in the Languages of the World (UiT The Arctic University of Norway, Tromsø). ([PDF](./assets/Laoide-Kemp_Phonological_domains_2025_poster.pdf){:target="_blank"})
 
-October 2024\. _Preverbal d' and its interactions with the initial consonant mutation system in Irish_. Invited talk for the Atelier de Phonologie (online - hosted in Paris). ([PDF](./assets/Laoide-Kemp_atelier_de_phonologie_2024_slides.pdf){:target="_blank"})
+October 2024\. _Preverbal d' and its interactions with the initial consonant mutation system in Irish_. Invited talk for the Atelier de Phonologie (online - hosted by Structures Formelles du Langage (SFL), Universit\'{e} Paris 8 / CNRS). ([PDF](./assets/Laoide-Kemp_atelier_de_phonologie_2024_slides.pdf){:target="_blank"})
 
 September 2024\. _Resolving the spell-out timing paradox in Irish historic tense lenition_. Talk given at the 17th conference on Syntax, Phonology and Language Analysis (SinFonIJA 17) (University of Nova Gorica, Slovenia). ([PDF](./assets/Laoide-Kemp_SinFonIJA_2024_slides.pdf){:target="_blank"})
 
