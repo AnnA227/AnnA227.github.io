@@ -24,6 +24,9 @@ Laoide-Kemp, A. Strict modularity at the morphosyntax-phonology interface: the c
 
 ### Presentations
 
+January 2026\. _How coronal blocking of initial consonant mutation
+reflects domain structure in Irish_. Poster presented at the Old-World Conference in Phonology (OCP23) (Gonville and Caius College, University of Cambridge). ([PDF](./assets/Laoide-Kemp_OCP23_2025_poster.pdf){:target="_blank"})
+
 November 2025\. _Resolving the paradox of Irish preverbal d’ in a modular
 grammatical system_. Talk given at \*Widame: A conference for postgraduate scholars in Celtic studies (Maynooth University). ([PDF](./assets/Laoide-Kemp_Widame_2025_slides.pdf){:target="_blank"})
 
