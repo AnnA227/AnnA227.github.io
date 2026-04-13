@@ -9,15 +9,19 @@ permalink: /teaching
 
 ## Teaching
 
+### Accreditation
+
+* Fellow of Advance HE (March 2026 - pres) - see [here](https://advance-he.ac.uk/fellowship/fellowship){:target="_blank"}.
+
 ### Lecturing
 
 * Syntax: Theory and Practice (MSc/Hons) (LASC10084) - _VP structure: ditransitive asymmetries_ (1 lecture)
 * Introduction to Syntax (MSc) (LASC11085) - _Syntactic islands_ (1 lecture, co-taught with Iris Kamil and John Hotson)
 * Introduction to Phonology (MSc) (LASC11089) - _Phonemic analysis; phonological rules; distinctive feature theory_ (3 lectures)
 
-### Current tutoring
+### Tutoring
 
-In 2025/26 I am tutoring on the following courses:
+In 2025/26 I tutored on the following courses:
 
 * LEL1B: Linguistics and English Language 1B (LASC08023)
 * LEL2A: Linguistic Theory and Structure of English (LASC08017)
@@ -48,7 +52,7 @@ As an educator in a university context, I see my role as being less about impart
 
 Throughout my time as a tutor, I have actively sought out opportunities to develop my teaching practice and to learn from my experiences in the classroom. As a result, I have built up a toolkit of practical techniques for classroom management, and I have also developed a clearer view of my own goals as a teacher. I hope to continue building on this foundation, always seeking new ways to support students in their academic journey.
 
-I have recently completed the [Introduction to Academic Practice (IntroAP)](https://institute-academic-development.ed.ac.uk/learning-teaching/cpd/intro-ap){:target="_blank"} teaching development course run by Edinburgh's Institute for Academic Development. Participating in this course gave me the opportunity to reflect deeply on my teaching practice, and has led to official recognition of my teaching through [Associate Fellowship of the Higher Education Academy (HEA)](https://advance-he.ac.uk/fellowship/associate-fellowship){:target="_blank"}.
+In 2024 I completed the [Introduction to Academic Practice (IntroAP)](https://institute-academic-development.ed.ac.uk/learning-teaching/cpd/intro-ap){:target="_blank"} teaching development course run by Edinburgh's Institute for Academic Development. Participating in this course gave me the opportunity to reflect deeply on my teaching practice, and led to official recognition of my teaching through [Associate Fellowship of the Higher Education Academy (HEA)](https://advance-he.ac.uk/fellowship/fellowship){:target="_blank"}.
 
 * * *
 

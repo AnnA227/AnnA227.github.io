@@ -15,14 +15,15 @@ Laoide-Kemp, A. (2024). Irish initial consonant mutation: disentangling phonolog
 morphosyntax. In M. Jaurena & Z. Metzler (Eds.), _Proceedings of the Thirty-Fifth Western
 Conference on Linguistics_ (Vol. 29, p. 58-68). California State University, Fresno. (available [here](https://wecol.weebly.com/uploads/1/2/6/6/126620555/volume_29_-_wecol_2023.pdf){:target="_blank"})
 
-_Under review_
+_Forthcoming_
 
-Laoide-Kemp, A.  Initial consonant mutation patterns as evidence for domain structure in Irish. Manuscript submitted for publication.
+Laoide-Kemp, A. (In press). Strict modularity at the morphosyntax-phonology interface: the case of Irish preverbal d’. _Natural language & Linguistic Theory_.
 
-Laoide-Kemp, A. Strict modularity at the morphosyntax-phonology interface: the case of Irish preverbal d’. Manuscript submitted for publication.
-
+Laoide-Kemp, A. (Forthcoming). Initial consonant mutation patterns as evidence for domain structure in Irish. In Erini Apostolopoulou et al. (eds.), _New perspectives on phonological domains_. Language Science Press.
 
 ### Presentations
+
+February 2026\. _A strictly modular account of Irish initial consonant mutation_. Pre-viva talk (University of Edinburgh). ([PDF](./assets/Laoide-Kemp_pre-viva_2026_slides.pdf){:target="_blank"})
 
 January 2026\. _How coronal blocking of initial consonant mutation
 reflects domain structure in Irish_. Poster presented at the Old-World Conference in Phonology (OCP23) (Gonville and Caius College, University of Cambridge). ([PDF](./assets/Laoide-Kemp_OCP23_2025_poster.pdf){:target="_blank"})
@@ -37,7 +38,7 @@ March 2025\. _Preverbal d' and its interactions with the initial consonant mutat
 March 2025\. _Initial consonant mutation patterns as evidence for domain structure in Irish_. Poster presented at Exploring
 Boundaries: Phonological Domains in the Languages of the World (UiT The Arctic University of Norway, Tromsø). ([PDF](./assets/Laoide-Kemp_Phonological_domains_2025_poster.pdf){:target="_blank"})
 
-October 2024\. _Preverbal d' and its interactions with the initial consonant mutation system in Irish_. Invited talk for the Atelier de Phonologie (online - hosted by Structures Formelles du Langage (SFL), Universit\'{e} Paris 8 / CNRS). ([PDF](./assets/Laoide-Kemp_atelier_de_phonologie_2024_slides.pdf){:target="_blank"})
+October 2024\. _Preverbal d' and its interactions with the initial consonant mutation system in Irish_. Invited talk for the Atelier de Phonologie (online - hosted by Structures Formelles du Langage (SFL), Université Paris 8 / CNRS). ([PDF](./assets/Laoide-Kemp_atelier_de_phonologie_2024_slides.pdf){:target="_blank"})
 
 September 2024\. _Resolving the spell-out timing paradox in Irish historic tense lenition_. Talk given at the 17th conference on Syntax, Phonology and Language Analysis (SinFonIJA 17) (University of Nova Gorica, Slovenia). ([PDF](./assets/Laoide-Kemp_SinFonIJA_2024_slides.pdf){:target="_blank"})
 
@@ -62,6 +63,8 @@ July 2022\. _Irish initial consonant mutations: disentangling phonology from mor
 June 2022\. _Irish initial consonant mutations: disentangling phonology from morphosyntax_. Poster presented at ACTL Summer School 2022 (University of York). ([PDF](./assets/Laoide-Kemp_ACTL_2022_poster.pdf){:target="_blank"})
 
 ### Dissertations and projects
+
+February 2026\. _A strictly modular account of Irish initial consonant mutation_. PhD thesis (School of Philosophy, Psychology and Language Sciences, University of Edinburgh).
 
 (Note: the documents below were written under my maiden name "Lawless")
 
