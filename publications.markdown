@@ -23,7 +23,7 @@ Laoide-Kemp, A. (Forthcoming). Initial consonant mutation patterns as evidence f
 
 ### Presentations
 
-February 2026\. _A strictly modular account of Irish initial consonant mutation_. Pre-viva talk (University of Edinburgh). ([PDF](./assets/Laoide-Kemp_pre-viva_2026_slides.pdf){:target="_blank"})
+March 2026\. _A strictly modular account of Irish initial consonant mutation_. Pre-viva talk (University of Edinburgh). ([PDF](./assets/Laoide-Kemp_pre-viva_2026_slides.pdf){:target="_blank"})
 
 January 2026\. _How coronal blocking of initial consonant mutation
 reflects domain structure in Irish_. Poster presented at the Old-World Conference in Phonology (OCP23) (Gonville and Caius College, University of Cambridge). ([PDF](./assets/Laoide-Kemp_OCP23_2025_poster.pdf){:target="_blank"})
