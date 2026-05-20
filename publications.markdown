@@ -11,13 +11,13 @@ permalink: /publications
 
 ### Publications
 
+Laoide-Kemp, A. Strict modularity at the morphosyntax-phonology interface: The case of Irish preverbal d’. _Nat Lang Linguist Theory_ 44, 27 (2026). [https://doi.org/10.1007/s11049-026-09712-9](https://doi.org/10.1007/s11049-026-09712-9){:target="_blank"}
+
 Laoide-Kemp, A. (2024). Irish initial consonant mutation: disentangling phonology from
 morphosyntax. In M. Jaurena & Z. Metzler (Eds.), _Proceedings of the Thirty-Fifth Western
 Conference on Linguistics_ (Vol. 29, p. 58-68). California State University, Fresno. (available [here](https://wecol.weebly.com/uploads/1/2/6/6/126620555/volume_29_-_wecol_2023.pdf){:target="_blank"})
 
 _Forthcoming_
-
-Laoide-Kemp, A. (In press). Strict modularity at the morphosyntax-phonology interface: the case of Irish preverbal d’. _Natural language & Linguistic Theory_.
 
 Laoide-Kemp, A. (Forthcoming). Initial consonant mutation patterns as evidence for domain structure in Irish. In Erini Apostolopoulou et al. (eds.), _New perspectives on phonological domains_. Language Science Press.
 
