@@ -11,7 +11,7 @@ permalink: /publications
 
 ### Publications
 
-Laoide-Kemp, A. Strict modularity at the morphosyntax-phonology interface: The case of Irish preverbal d’. _Nat Lang Linguist Theory_ 44, 27 (2026). [https://doi.org/10.1007/s11049-026-09712-9](https://doi.org/10.1007/s11049-026-09712-9){:target="_blank"}
+Laoide-Kemp, A. (2026). Strict modularity at the morphosyntax-phonology interface: The case of Irish preverbal d’. _Nat Lang Linguist Theory_ 44, 27. [https://doi.org/10.1007/s11049-026-09712-9](https://doi.org/10.1007/s11049-026-09712-9){:target="_blank"}
 
 Laoide-Kemp, A. (2024). Irish initial consonant mutation: disentangling phonology from
 morphosyntax. In M. Jaurena & Z. Metzler (Eds.), _Proceedings of the Thirty-Fifth Western
