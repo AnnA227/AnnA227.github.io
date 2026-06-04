@@ -64,7 +64,8 @@ June 2022\. _Irish initial consonant mutations: disentangling phonology from mor
 
 ### Dissertations and projects
 
-February 2026\. _A strictly modular account of Irish initial consonant mutation_. PhD thesis (School of Philosophy, Psychology and Language Sciences, University of Edinburgh).
+February 2026\. _A strictly modular account of Irish initial consonant mutation_. PhD thesis (School of Philosophy, Psychology and Language Sciences, University of Edinburgh). ([PDF](./assets/Laoide-Kemp_Anna_PhD_Thesis_2026.pdf){:target="_blank"})
+
 
 (Note: the documents below were written under my maiden name "Lawless")
 
