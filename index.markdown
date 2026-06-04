@@ -9,7 +9,7 @@
 layout: default
 ---
 
-![Anna Laoide-Kemp](./assets/images/anna_laoide-kemp.jpeg){: width="190px" style="float:left; padding-right:10px; padding-top: 10px" }
+![Dr. Anna Laoide-Kemp](./assets/images/anna_laoide-kemp.jpeg){: width="190px" style="float:left; padding-right:10px; padding-top: 10px" }
 
 ### Fáilte!
 
