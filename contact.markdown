@@ -9,7 +9,7 @@ permalink: /contact
 
 ## Contact me
 
-You can contact me by email at anna.laoide-kemp [at] ed.ac.uk
+You can contact me by email at anna.laoide-kemp [at] ed.ac.uk OR anna [at] laoidekemp.net
 
 * * *
 
